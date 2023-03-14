@@ -11,5 +11,5 @@ Nother Note Noter is a lightweight and easy way to save small notes in browser! 
 
 ## Screenshots
 
-![Screenshot](/assets/images/screenshot1.png)
-![Screenshot](/assets/images/screenshot2.png)
+![Screenshot](./assets/images/screenshot1.png)
+![Screenshot](./assets/images/screenshot2.png)
